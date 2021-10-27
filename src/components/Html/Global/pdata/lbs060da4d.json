@@ -1,0 +1,44 @@
+{
+    "pId": "lbs060da4d",
+    "backgroungImg": "url('./assets/img/products/lbs060da4d/OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/lbs060da4d/LBS-OUTDOOR-SERIES-OUTDOOR-LED-SIGNAGE(OUTD).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lbs060da4d.OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lbs060da4d/OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lbs060da4d.OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lbs060da4d/OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lbs060da4d.OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lbs060da4d/OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lbs060da4d.OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "OUTDOOR-LED-SIGNAGE-LBS-OUTDOOR-SERIES",
+    "title": "OUTDOOR LED SIGNAGE LBS OUTDOOR SERIES",
+    "features": [
+      "Pixel Pitch: 6.25 / 8.33 / 10.00 mm",
+      "Brightness: 6,000 nits",
+      "Outstanding Visibility",
+      "16-bit Color Processing",
+      "Slim & Lightweight Design",
+      "Reliable Weatherproof Design"
+    ],
+    "learnmoreUrl": ""
+  }
+  

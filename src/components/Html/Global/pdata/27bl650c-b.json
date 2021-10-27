@@ -1,0 +1,86 @@
+{
+  "pId": "27BL650C-B",
+  "backgroungImg": "url('./assets/img/products/27BL650C-B/27BL650C-main.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/27BL650C-B/27BL650C-B-27-FULL-HD-IPS-MONITOR-final.jpg",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B.png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(2).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(3).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(4).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(5).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(6).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(7).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(8).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(9).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/27BL650C-B/27-FULL-HD-IPS-MONITOR-27BL650C-B-(10).png",
+      "fullview": false,
+      "isVideo": false,
+      "altName": "27\" Full HD IPS Monitor"
+    }
+  ],
+  "casestudyUrl": "https://www.lg.com/us/business/commercial-display/resources-hub/pdfs/IT_Monitor_Pain_Points_Whitepaper.pdf",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_BL650C_061931_PR[20190917_041125].pdf",
+  "serious": "Full-HD-IPS-Monitor",
+  "title": "27\" Full HD IPS Monitor",
+  "features": [
+    "Panel Type: Screen Size: 27\"",
+    "Resolution: 1920 x 1080",
+    "Brightness: 200 nits",
+    "Warranty: 3 Year Parts and Labor",
+    "Panel Type: IPS",
+    "Aspect Ratio: 16:9",
+    "Contrast Ratio: 1000:1"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/desktop-monitors/lg-27bl650c-b"
+}

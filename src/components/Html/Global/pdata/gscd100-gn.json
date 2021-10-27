@@ -1,0 +1,56 @@
+{
+    "pId": "gscd100-gn",
+    "backgroungImg": "url('./assets/img/products/gscd100-gn/OUTDOOR-LED-SIGNAGE-GSCA-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/gscd100-gn/GSCA-SERIES,-GSCD-SERIES-OUTDOOR-LED-SIGNAGE(OUTD).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "gscd100-gn.OUTDOOR-LED SIGNAGE-GSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/gscd100-gn/OUTDOOR-LED-SIGNAGE-GSCA-SERIES.jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "gscd100-gn.OUTDOOR-LED SIGNAGE-GSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/gscd100-gn/OUTDOOR-LED-SIGNAGE-GSCA-SERIES(-10).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "gscd100-gn.OUTDOOR-LED SIGNAGE-GSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/gscd100-gn/OUTDOOR-LED-SIGNAGE-GSCA-SERIES(1).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "gscd100-gn.OUTDOOR-LED SIGNAGE-GSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/gscd100-gn/OUTDOOR-LED-SIGNAGE-GSCA-SERIES(2-2).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "gscd100-gn.OUTDOOR-LED SIGNAGE-GSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/gscd100-gn/OUTDOOR-LED-SIGNAGE-GSCA-SERIES(2-3).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "gscd100-gn.OUTDOOR-LED SIGNAGE-GSCA-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "OUTDOOR-LED-SIGNAGE-GSCA-SERIES",
+    "title": "OUTDOOR LED SIGNAGE GSCA SERIES",
+    "features": [
+      "Pixel Pitch: 3.91 / 4.63 mm",
+      "Brightness: 5,000 nits",
+      "Fast Assembly and Easy Maintenance",
+      "Two Cabinet Options",
+      "IP65 Weatherproof Design",
+      "90° Corner Option Available"
+    ],
+    "learnmoreUrl": ""
+  }
+  

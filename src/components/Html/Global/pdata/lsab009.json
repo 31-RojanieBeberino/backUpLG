@@ -1,0 +1,84 @@
+{
+  "pId": "lsab009",
+  "backgroungImg": "url('/assets/img/products/LSAB/LG-MAGNIT-LSAB-SERIES.jpg')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/LSAB/LSAB-SERIES-LG MAGNIT-NEW.jpg",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/video/LSAB.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/LSAB/LG-MAGNIT-LSAB-SERIES.png",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Module_front.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Cabinet_right_45.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+	  
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Cabinet_right.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Cabinet_left.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Controller_right45.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Cabinet_top.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    },
+    {
+      "path": "./assets/img/products/LSAB/LSAB_Cabinet_back.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG MAGNIT"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "",
+  "serious": "LSAB Series Micro LED",
+  "title": "LG MAGNIT",
+  "features": [
+    {
+      "spcesOne": "Available Pixel Pitch: 0.938"
+    },
+    "Available Pixel Pitch: 0.938",
+    "Max Brightness After Calibration: 1,200 nits",
+    "Contrast Ratio: 50,000:1",
+    "Viewing Angle (H x V): 165° x 165°",
+    "Operating Temperature: 24°F to 104°F",
+    "Lifetime: 100,000 hours",
+    "Service Access: Front & Rear",
+    "Processing Depth: 20 bit"
+  ],
+  "learnmoreUrl": ""
+}

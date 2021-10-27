@@ -1,0 +1,87 @@
+{
+  "pId": "BU50NST",
+  "backgroungImg": "url('./assets/img/products/PJT-BU50N/PJT-BU50N-01.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/PJT-BU50N/BU50NST-PROBEAM-LASER-PROJECTOR-final.jpg",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/video/BU50NST.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-01.png",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-02.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+	  
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-03.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-04.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-05.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-06.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-07.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-08.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    },
+    {
+      "path": "./assets/img/products/PJT-BU50N/PJT-BU50N-09.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "ProBeam Laser Projector for Business"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT40000311/LG_SPEC-SHEET_BU50NST_052027_LR[20200611_085321].pdf",
+  "serious": "ProBeam-Laser-Projector-for-Business",
+  "title": "ProBeam Laser Projector for Business",
+  "features": [
+    "Screen Size: Up to 300\"",
+    "Resolution: 3840 x 2160 (4K UHD)",
+    "Display Type: DLP",
+    "Lamp Life: 20,000 Laser",
+    "Brightness: 5,000 ANSI Lumens",
+    "Advanced Edge Adjustment: 12 Point Warping",
+	"Smart Connections: Wireless Mirroring, Bluetooth Sound Out",
+    "Built-in Apps: webos 4.5 Web Browser"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/projectors/lg-bu50nst-projector"
+}

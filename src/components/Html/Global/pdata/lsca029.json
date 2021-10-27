@@ -1,0 +1,122 @@
+{
+    "pId": "lsca029",
+    "backgroungImg": "url('./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(2).jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/lsca029/LSCA-SERIES-INDOOR-LED-SIGNAGE(HL).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(10).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(11).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(12).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(13).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(14).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(15).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lsca029/INDOOR-LED-SIGNAGE-LSCA-SERIES-(16).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lsca029.INDOOR-LED-SIGNAGE-LSCA-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "INDOOR-LED-SIGNAGE-LSCA-SERIES",
+    "title": "INDOOR LED SIGNAGE LSCA SERIES",
+    "features": [
+      "Pixel Pitch: 2.97 / 3.91 mm",
+      "Brightness: 1,000 nits",
+      "Fast Assembly and Easy Maintenance",
+      "Two Cabinet Options",
+      "IP65 Weatherproof Design",
+      "90° Corner Option Available"
+    ],
+    "learnmoreUrl": ""
+  }
+  

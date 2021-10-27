@@ -1,0 +1,63 @@
+{
+  "pId": "34cn650n",
+  "backgroungImg": "url('./assets/img/products/34CN650N/34CN650_1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/34CN650N/34CN650N-34-ULTRAWIDE-FHD-ALL-IN-ONE-THIN CLIENT-final.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    },
+    {
+      "path": "./assets/img/products/34CN650N/34CN650_1_1.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    },
+    {
+      "path": "./assets/img/products/34CN650N/34CN650_2_1.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    },
+    {
+      "path": "./assets/img/products/34CN650N/34CN650_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    },
+    {
+      "path": "./assets/img/products/34CN650N/34CN650_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    },
+    {
+      "path": "./assets/img/products/34CN650N/34CN650_7.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    },
+    {
+      "path": "./assets/img/products/34CN650N/34CN650_8.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide FHD All-in-One Thin Client"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_34CN650N-6A_032007_LR[20200605_045357].pdf",
+  "serious": "UltraWide-FHD-All-in-One-Thin-Client",
+  "title": "34\" UltraWide FHD All-in-One Thin Client",
+  "features": [
+    "Screen Size: 34\"",
+    "Resolution: 2560 x 1080",
+    "Brightness: 300 nits",
+    "Aspect Ratio: 21:9",
+    "Processor: Intel\u00AE Celeron J4105 (Quad Core 1.5GHz, up to 2.5GHz burst)",
+    "Operating System: Non OS (Windows 10 IoT Enterprise compatible)",
+    "Memory: 4GB DDR4",
+    "Storage: 16GB eMMC"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/thin-client/lg-34cn650n-6a"
+}

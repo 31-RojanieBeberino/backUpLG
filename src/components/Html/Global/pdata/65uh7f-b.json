@@ -1,0 +1,63 @@
+{
+  "pId": "65uh7f-b",
+  "backgroungImg": "url('./assets/img/products/65UH7F-B/PHTO_65UH7F_front.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_front.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    },
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_left.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    },
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_left45_with-stand.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    },
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_right.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    },
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_right45.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    },
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_top.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    },
+    {
+      "path": "./assets/img/products/65UH7F-B/PHTO_65UH7F_back.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "UH7F Series Bright UHD Smart Signage"
+    }
+  ],
+  "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2211.pdf",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_UH7F_101902_LR[20200318_042326].pdf",
+  "serious": "Series-Bright-UHD-Smart-Signage",
+  "title": "UH7F Series Bright UHD Smart Signage",
+  "features": [
+    "Screen Size: 65\"",
+    "Resolution: 3840 x 2160 (4K UHD)",
+    "Brightness: 700 nits",
+    "Warranty: 3 Year Limited Warranty",
+    "Panel Type: IPS°",
+    "Aspect Ratio: 16:9",
+    "IP5x Certified Dust Resistant",
+    "Contrast Ratio: 1100:1"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/digital-signage/lg-65uh7f-b"
+}

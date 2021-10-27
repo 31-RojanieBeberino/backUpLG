@@ -1,0 +1,98 @@
+{
+    "pId": "27qn880-b",
+    "backgroungImg": "url('./assets/img/products/27qn880-b/LGQHDMonitorErgo-27QN880.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/27qn880-b/MNT-27QN880-01-2-LG-QHD-Ergo-D.webp",
+        "fullview": true,
+        "isVideo": false,
+        "altName": "27qn880-b.LGQHDMonitorErgo1"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo2"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo3"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo4"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo5"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo6"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo7"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo8"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo9"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo10"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(10).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo11"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(11).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo12"
+      },
+      {
+        "path": "./assets/img/products/27qn880-b/LG-QHD-Monitor-Ergo-27QN880-(12).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "27qn880-b.LGQHDMonitorErgo13"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "LGQHD-Monitor-Ergo",
+    "title": "LG QHD Monitor Ergo",
+    "features": [
+      "27\" QHD (2560x1440) IPS",
+      "sRGB 99% (Typ.) with HDR10",
+      "Ergonomic Stand with C-Clamp",
+      "Extend/Retract, Swivel, Pivot, Height, Tilt",
+      "AMD FreeSync™",
+      "USB Type-C™ (60W Power Delivery)"
+    ],
+    "learnmoreUrl": ""
+  }
+  

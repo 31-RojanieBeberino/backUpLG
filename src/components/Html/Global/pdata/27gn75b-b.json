@@ -1,0 +1,63 @@
+{
+  "pId": "27GN75B",
+  "backgroungImg": "url('./assets/img/products/27GN75B/27GN75B-1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-27-ULTRAGEAR-GAMING-MONITOR-final.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-8.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/27GN75B/27GN75B-10.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "27\" UltraGear Gaming Monitor"
+    }
+  ],
+  "casestudyUrl": "https://www.lg.com/us/business/commercial-display/resources-hub/pdfs/CS_Caldwell_University_032023_LR.PDF",
+  "specsUrl": "https://drive.google.com/file/d/1NeUxdilmfkTPMZaG33uFvdQfChWdNT4q/view?usp=sharing",
+  "serious": "UltraGear-Gaming-Monitor",
+  "title": "27\" UltraGear Gaming Monitor",
+  "features": [
+    "Screen Size: 27\"",
+    "Resolution: 1920 x 1080 (FHD)",
+    "Brightness: 400 nits",
+    "Warranty: 3 Year Parts and Labor",
+    "Panel Type: IPS",
+    "Contrast Ratio: 1000:1",
+    "AMD FreeSync Premium Pro & NVIDIA® G-SYNC® Compatible",
+    "Response Time (G to G): 1ms"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/computer-monitors/lg-27gn75b-b"
+}

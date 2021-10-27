@@ -1,0 +1,80 @@
+{
+    "pId": "55ef5g-l",
+    "backgroungImg": "url('./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55ef5g-l/55EF5G-L-FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE(METRO).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      },
+      {
+        "path": "./assets/img/products/55ef5g-l/FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ef5g-l.FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "FLEXIBLE-CURVED-OPEN-FRAME-OLED-SIGNAGE-55EF5G-L",
+    "title": "FLEXIBLE CURVED OPEN FRAME OLED SIGNAGE",
+    "features": [
+      "Screen Size : 86\"",
+      "Brightness (Typ.): 350 nits",
+      "Touch Type : In-Cell",
+      "Max Multi Touch: 20 Points (Windows), 10 Points (webOS), 2 Points (Active Pens)",
+      "Depth: 86.5 mm",
+      "Connectivity: HDMI (x2), DP, DVI-D, USB Type C, Audio-in, RS-232C In/Out, USB 2.0 (x2), USB Type C, Touch Out (USB2.0,B Type) (x2)"
+    ],
+    "learnmoreUrl": ""
+  }
+  

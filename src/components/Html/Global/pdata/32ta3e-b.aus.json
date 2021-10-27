@@ -1,0 +1,79 @@
+{
+    "pId": "32ta3e-b.aus",
+    "backgroungImg": "url('./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/32ta3e-b/TA3E-SERIES-BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE(HL).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      },
+      {
+        "path": "./assets/img/products/32ta3e-b/BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "32ta3e-b.BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "BUILT-IN-INTERACTIVE-TOUCH-SIGNAGE-TA3E-SERIES",
+    "title": "BUILT IN INTERACTIVE TOUCH SIGNAGE TA3E SERIES",
+    "features": [
+      "Screen Size: 55\" / 49\" / 43\" / 32\"",
+      "Brightness (Typ.): 450 nits (without protection glass)",
+      "Touch Type: IR (Scattering)",
+      "Max Multi Touch: 10 Points",
+      "Connectivity: HDMI (x2), DP, DVI-D, RGB, USB 3.0, RS232C, RJ45, IR Receiver, Pixel Sensor"
+    ],
+    "learnmoreUrl": ""
+  }
+  

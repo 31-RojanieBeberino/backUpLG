@@ -1,0 +1,79 @@
+{
+    "pId": "49xe4f-m",
+    "backgroungImg": "url('./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/49xe4f-m/XE4F-SERIES-IP-RATED-OUTDOOR-DISPLAY(OUTD).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49xe4f-m/IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xe4f-m.IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "IP-RATED-OUTDOOR-DISPLAY-XE4F-SERIES",
+    "title": "IP RATED OUTDOOR DISPLAY XE4F-SERIES",
+    "features": [
+      "Screen Size: 55\" / 49\"",
+      "Bezel: 38.4 mm (T/B), 26.0 mm (L/R)",
+      "Connectivity: HDMI, DP, HDBaseT, USB, Audio, RS-232C, RJ-45",
+      "Anti-Reflection Coating",
+      "IP56 Design, IK10 Protective Glass"
+    ],
+    "learnmoreUrl": ""
+  }
+  

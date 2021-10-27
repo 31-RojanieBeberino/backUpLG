@@ -1,0 +1,85 @@
+{
+    "pId": "lad033f",
+    "backgroungImg": "url('./assets/img/products/lad033f/LG-LED-CINEMA-LADF.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/lad033f/LADF-LG-LED-CINEMA-MAIN.png",
+        "fullview": true,
+        "isVideo": false,
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(1).png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      },
+      {
+        "path": "./assets/img/products/lad033f/LG-LED-CINEMA-LADF-(10).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lad033f.LG-LED-CINEMA-LADF"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "LG-LED-CINEMA-LADF",
+    "title": "LG LED CINEMA LADF",
+    "features": [
+      "Pixel Pitch: 3.33 mm",
+      "Screen Resolution : 4,096 x 2,160 (DCI-compliant)",
+      "Brightness: 48 nits (DCI-compliant / Minimum)",
+      "Contrast Ratio: 4,000:1 (Minimum)",
+      "Compatibility with Dolby Media Server (IMS3000) & Dolby Atmos"
+    ],
+    "learnmoreUrl": ""
+  }
+  

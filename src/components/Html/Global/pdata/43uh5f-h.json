@@ -1,0 +1,82 @@
+{
+    "pId": "43uh5f-h",
+    "backgroungImg": "url('./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/43uh5f-h/UH5F-H-SERIES-UHD-SIGNAGE-(SUPERM2).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+        
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      },
+      {
+        "path": "./assets/img/products/43uh5f-h/UHD-SIGNAGE-UH5F-H-SERIES(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UHD-SIGNAGE"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "UHD-Sinage-UH5F-H-Series",
+    "title": "UHD SIGNAGE",
+    "features": [
+    "Screen Size: 86\" / 75\" / 65\" / 55\" / 49\" / 43\"",
+    "Brightness (Typ.): 500 nits",
+    "Surface Treatment (Haze): 28%",
+    "Bezel: 14.3 mm (Even) (86\")",
+    "Depth: 60.6 mm (without Handle) (86\")",
+    "Connectivity: HDMI (x3), DP, DVI-D, USB 2.0 (x2), RS232C, RJ45, Audio, IR",
+    "Built-in Speaker & Detachable Logo"
+    ],
+    "learnmoreUrl": ""
+  }
+  

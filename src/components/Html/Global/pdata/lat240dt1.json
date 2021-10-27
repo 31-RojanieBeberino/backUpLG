@@ -1,0 +1,70 @@
+{
+    "pId": "LAT240",
+    "backgroungImg": "url('./assets/img/products/LAT240/LAT240DT1-bezel-kit-2.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/LAT240/LAT240-TRANSPARENT-COLOR-LED-FILM-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/img/products/LAT240/LAT240DT1-bezel-kit-2.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/img/products/LAT240/LAT240DT1-bezel-kit-4.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/img/products/LAT240/LAT240DT1-Unit-Controller-left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/img/products/LAT240/LAT240DT1-left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/img/products/LAT240/LAT240DT1-right45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/img/products/LAT240/LAT240DT1-back.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Transparent Color LED Film"
+      },
+      {
+        "path": "./assets/video/LAT240.mp4",
+        "fullview": false,
+        "isVideo": true
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/BT00001837/LG_SPEC-SHEET_LAT240DT1_101846_PR.pdf",
+    "serious": "LAT240 Series",
+    "title": "Transparent Color LED Film",
+    "features": [
+
+        " Available Pixel Pitch: 14 / 24 mm",
+        " Max Brightness After Calibration (14mm): 2100 nits",
+        " Max Brightness After Calibration (24mm): 1000 nits",
+        " Contrast Ratio: 100,000:1",
+        " Transparency (14mm): 53% (Typ.)",
+        " Transparency (24mm): 73% (Typ.)",
+        " Color Gamut (14mm): 125 Million Colors",
+        " Color Gamut (24mm): 1.7 Million Colors"	
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/direct-view-led-signage/lg-LAT240DT1"
+  }
+  

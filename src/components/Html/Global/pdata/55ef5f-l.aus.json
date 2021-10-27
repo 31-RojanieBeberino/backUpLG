@@ -1,0 +1,63 @@
+{
+    "pId": "55EF5F",
+    "backgroungImg": "url('./assets/img/products/55EF5F-L/PHTO_55EF5F-L_front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55EF5F-L/55EF5F-FLEXIBLE,-CURVABLE-OPEN-FRAME-OLED-SMART-SIGNAGE-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Flexible, Curvable Open Frame OLED Smart Signage"
+      },
+      {
+        "path": "./assets/img/video/55EF5F.mp4",
+        "fullview": false,
+        "isVideo": true
+      },
+      {
+        "path": "./assets/img/products/55EF5F-L/PHTO_55EF5F-L_left.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Flexible, Curvable Open Frame OLED Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/55EF5F-L/PHTO_55EF5F-L_left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Flexible, Curvable Open Frame OLED Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/55EF5F-L/PHTO_55EF5F-L_top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Flexible, Curvable Open Frame OLED Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/55EF5F-L/PHTO_55EF5F-L_left45 top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Flexible, Curvable Open Frame OLED Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/55EF5F-L/PHTO_55EF5F-L_back.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Flexible, Curvable Open Frame OLED Smart Signage"
+      }
+    ],
+    "casestudyUrl": "https://drive.google.com/file/d/1V8tY5WQqlit-Lhi24hSWWZ2iLco1PPIo/view?usp=sharing",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_55EF5F_101901_LR[20200318_030725].pdf",
+    "serious": "Curvable-Open-Frame-OLED-Smart-Signage",
+    "title": "Flexible, Curvable Open Frame OLED Smart Signage",
+    "features": [
+        "Screen Size: 55\"",
+        "Resolution: 1920 x 1080 (FHD)", 
+        "Brightness: 400 nits",   
+        "Lifetime: 30,000 hours",  
+        "Panel Type: OLED",   
+        "Aspect Ratio: 16:9",   
+        "Viewing Angle: 178° x 178°",    
+        "Contrast Ratio: Infinite (Perfect Black)"   
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/lg-oled-displays/lg-55ef5f-l"
+  }
+  

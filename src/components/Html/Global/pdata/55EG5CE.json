@@ -1,0 +1,46 @@
+{
+    "pId": "55EG5CE",
+    "backgroungImg": "url('./assets/img/products/55EG5CE/55EG5CE_1.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55EG5CE/55EG5CE_1.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "55\" Hanging In-Glass Dual-View OLED"
+      },
+      {
+        "path": "./assets/img/products/55EG5CE/55EG5CE_2.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Hanging In-Glass Dual-View OLED"
+      },
+      {
+        "path": "./assets/img/products/55EG5CE/55EG5CE_3.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Hanging In-Glass Dual-View OLED"
+      },
+      {
+        "path": "./assets/img/products/55EG5CE/55EG5CE_4.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Hanging In-Glass Dual-View OLED"
+      }
+    ],
+    "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2470.pdf",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/BT00001837/SPEC_55EG5CE_011932_PR.pdf",
+    "serious": "Hanging-In-Glass-Dual-View-OLED",
+    "title": "55\" Hanging In-Glass Dual-View OLED",
+    "features": [
+      "Screen Size: 55\"",
+      "Resolution: 1920 x 1080 (FHD)",
+      "Brightness: 400 nits",
+      "Lifetime: 30,000 hours",
+      "Panel Type: Dual-Sided OLED",
+      "Aspect Ratio: 16:9",
+      "Viewing Angle: 178° x 178° ",
+      "Contrast Ratio: Infinite (Perfect Black)"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/oled-displays/lg-55EG5CE"
+  }
+  

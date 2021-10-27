@@ -1,0 +1,70 @@
+{
+    "pId": "86ut640s0ua",
+    "backgroungImg": "url('./assets/img/products/86UT640S/PHTO_86UT640S_Front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/86UT640S/UT640S-SERIES-UHD-SMART-SIGNAGE-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_Front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_1.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_2.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_3.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_5.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_Right.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      },
+      {
+        "path": "./assets/img/products/86UT640S/PHTO_86UT640S_Top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "UT640S Series UHD Smart Signage"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_UT640S_032070_LR[20200422_222614].pdf",
+    "serious": "Series-UHD-Smart-Signage",
+    "title": "UT640S Series UHD Smart Signage",
+    "features": [
+      "Screen Size: 86\"",
+      "Resolution: 3840 x 2160",
+      "Brightness: 315 nits",
+      "Speaker (Sound Output): 10W + 10W",
+      "Front Color: Dark Meteo Titan",
+      "VESA Compatible: 600 x 400",
+      "Warranty: 3 Year Parts and Labor",
+      "Digital TV Tuner: NTSC/ATSC/clear QAM"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/commercial-tvs/lg-86ut640s0ua"
+  }
+  

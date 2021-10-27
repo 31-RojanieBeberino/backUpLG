@@ -1,0 +1,67 @@
+{
+    "pId": "49ut761h",
+    "backgroungImg": "url('./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/49ut761h/UT761H-SERIES-NANOCELL-TV-FOR-HOSPITALITY(HR).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false,
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49ut761h/NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49ut761h.NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "NANOCELL-TV-FOR-HOSPITALITY-UT761H-SERIES",
+    "title": "NANOCELL TV FOR HOSPITALITY UT761H SERIES",
+    "features": [
+      "Screen Size: 75\" / 65\" / 55\" / 49\"",
+      "NanoCell Technology",
+      "Pro:Centric Hotel Management Solution (Smart, Direct, V)",
+      "Quick Menu",
+      "Voice Recognition"
+    ],
+    "learnmoreUrl": ""
+  }
+  

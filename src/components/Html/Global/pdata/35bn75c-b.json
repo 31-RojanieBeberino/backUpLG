@@ -1,0 +1,69 @@
+{
+  "pId": "35BN75C-B",
+  "carousel": [
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C-B-35-CURVED-ULTRAWIDE™-MONITOR-final.jpg",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },
+	  
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_4.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_7.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    },  
+    {
+      "path": "./assets/img/products/35BN75C-B/35BN75C_8.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "35\" Curved UltraWide™ Monitor"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://drive.google.com/file/d/1yOD1v8zkGNxONyD0KegORqcAEUqmL8oa/view",
+  "serious": "Curved-UltraWide™-Monitor",
+  "title": "35\" Curved UltraWide™ Monitor",
+  "features": [
+    "Diagonal: 35\"",
+    "Resolution: 3440 x 1440 (QHD)",
+    "HDR 10 / Color Calibrated",
+    "Color Gamut sRGB 99%",
+    "Peak Brightness: 300 nits",
+    "Contrast Ratio: 2500:1",
+    "Tilt / Height Adjustable",
+    "Connectivity: DisplayPort, HDMI (x2), Headphone Out"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/computer-monitors/lg-35bn75c-b"
+}

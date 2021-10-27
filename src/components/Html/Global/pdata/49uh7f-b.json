@@ -1,0 +1,75 @@
+{
+    "pId": "49uh7f-b",
+    "backgroungImg": "url('./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/49uh7f-b/65UH7F_final.jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      },
+      {
+        "path": "./assets/img/products/49uh7f-b/UHD-SIGNAGE-UH7F-SERIES-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49uh7f-b.UHD-SIGNAGE-UH7F-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "UHD-SIGNAGE-UH7F-SERIES",
+    "title": "UHD SIGNAGE UH7F SERIES",
+    "features": [
+      "Screen Size: 65\" / 55\" / 49\"",
+      "Brightness (Typ.): 700 nit",
+      "Bezel: 9.9 mm (T/R/L), 14.4 mm (B)",
+      "Depth: 39.9 mm",
+      "Connectivity: HDMI (x3), DP, DVI-D, USB 2.0, RS-232C, RJ-45, Audio, IR",
+      "Built-in Speaker & Detachable Logo",
+      "30° Tilting Installation"
+    ],
+    "learnmoreUrl": ""
+  }
+  

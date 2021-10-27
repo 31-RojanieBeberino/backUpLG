@@ -1,0 +1,69 @@
+{
+    "pId": "55ew5tf-a",
+    "backgroungImg": "url('./assets/img/products/55EW5TF-A/55EW5TF-front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-A-55-TRANSPARENT-OLED-TOUCHSCREEN-OPEN-FRAME-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame2"
+      },
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame2"
+      },
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-left.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame3"
+      },
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame4"
+      },
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-right45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame5"
+      },
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame6"
+      },
+      {
+        "path": "./assets/img/products/55EW5TF-A/55EW5TF-back.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Touchscreen Open Frame7"
+      },
+      {
+        "path": "./assets/video/55EW5TF-A.mp4",
+        "fullview": false,
+        "isVideo": true
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/SPEC_55EW5TF_032004_LR[20200401_071832].pdf",
+    "serious": "Transparent-OLED-Touchscreen-Open-Frame",
+    "title": "55\" Transparent OLED Touchscreen Open Frame",
+    "features": [
+        "Screen Size: 55\"",
+        "Resolution: 1920 x 1080 (FHD)",
+        "Brightness: 400 nits",
+        "Lifetime: 30,000 hours",
+        "Panel Type: Transparent OLED Touchscreen",
+        "Viewing Angle: 178° x 178° ",
+        "Touchscreen Type: P-Cap",
+        "Multitouch: Max 10 Points"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/lg-oled-displays/lg-55ew5tf-a"
+  }
+  

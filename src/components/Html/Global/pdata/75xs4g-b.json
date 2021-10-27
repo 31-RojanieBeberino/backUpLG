@@ -1,0 +1,80 @@
+{
+    "pId": "75xs4g-b",
+    "backgroungImg": "url('./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLA-75XS4G.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/75xs4g-b/75XS4G-WINDOW-FACING-DISPLAY(LFS).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(3).png",
+        "fullview": false,
+        "isVideo": false,
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/75xs4g-b/WINDOW-FACING-DISPLAY-75XS4G-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "75xs4g-b.WINDOW-FACING-DISPLA-75XS4G"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "WINDOW-FACING-DISPLAY-75XS4G",
+    "title": "WINDOW FACING DISPLAY",
+    "features": [
+      "Brightness (Typ.): 4,000 nits",
+      "Resolution: 3,840 x 2,160 (Ultra HD)",
+      "Bezel: 13.8 mm (Even Bezel)",
+      "Double-sided Usage with Dedicated Bracket",
+      "Built-in Wi-Fi & Bluetooth",
+      "Web-based Monitoring Solution"
+    ],
+    "learnmoreUrl": ""
+  }
+  

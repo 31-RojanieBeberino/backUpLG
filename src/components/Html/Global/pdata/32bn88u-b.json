@@ -1,0 +1,58 @@
+{
+  "pId": "32BN88U-B",
+  "backgroungImg": "url('./assets/img/products/32BN88U-B/32BN88U_1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/32BN88U-B/32BN88U-B-32-ULTRA-HD-MONITOR-WITH-ERGO-STAND-Final.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "32\" Ultra HD Monitor with Ergo Stand"
+    },
+    {
+      "path": "./assets/img/products/32BN88U-B/32BN88U_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "32\" Ultra HD Monitor with Ergo Stand"
+    },
+	  
+    {
+      "path": "./assets/img/products/32BN88U-B/32BN88U_3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "32\" Ultra HD Monitor with Ergo Stand"
+    },
+    {
+      "path": "./assets/img/products/32BN88U-B/32BN88U_4.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "32\" Ultra HD Monitor with Ergo Stand"
+    },
+    {
+      "path": "./assets/img/products/32BN88U-B/32BN88U_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "32\" Ultra HD Monitor with Ergo Stand"
+    },
+    {
+      "path": "./assets/img/products/32BN88U-B/32BN88U_14.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "32\" Ultra HD Monitor with Ergo Stand"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://drive.google.com/file/d/18d3SFIMTPqTTsaS4Xn7b2Aj0XI8pASXS/view",
+  "serious": "Ultra-HD-Monitor-with-Ergo-Stand",
+  "title": "32\" Ultra HD Monitor with Ergo Stand",
+  "features": [
+    "Screen Size (diagonal): 31.5",
+    "Resolution: 3840 x 2160 (UHD)",
+    "Brightness: 380 nits",
+    "Warranty: 3 Year Parts and Labor",
+    "Panel Type: IPS",
+    "Aspect Ratio: 16:9",
+    "Contrast Ratio: 1000:1",
+    "Response Time (G to G): 5 ms"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/computer-monitors/lg-32bn88u-b"
+}

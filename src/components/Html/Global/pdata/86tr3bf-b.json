@@ -1,0 +1,75 @@
+{
+  "pId": "86TR3BF-B",
+  "backgroungImg": "url('./assets/img/products/86TR3BF-B/86TR3BF-B_1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_1.png",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_3a.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_4.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_4a.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    },
+    {
+      "path": "./assets/img/products/86TR3BF-B/86TR3BF-B_7.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "TR3BF Series IR Touchscreen"
+    }
+  ],
+  "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2211.pdf",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_TR3BF_032061_LR[20200331_221118].pdf",
+  "serious": "Series-IR-Touchscreen",
+  "title": "TR3BF Series IR Touchscreen",
+  "features": [
+    "Screen Size: 86\"",
+    "Resolution: 3840 x 2160",
+    "Brightness: 280 nits",
+    "Warranty: 3 Year Limited Warranty",
+    "Panel Type: IPS",
+    "Aspect Ratio: 16:9",
+    "Touch Type: 20-Point IR MultiTouch",
+    "Contrast Ratio: 6000:1"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/digital-signage/lg-86tr3bf-b"
+}

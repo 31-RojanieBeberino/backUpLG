@@ -1,0 +1,48 @@
+{
+    "pId": "55ew5g-a",
+    "backgroungImg": "url('./assets/img/products/55ew5g-a/TRANSPARENT-OLED-SIGNAGE-55EW5G-A.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55ew5g-a/TRANSPARENT-OLED-SIGNAGE-55EW5G-A.jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "55ew5g-a.TRANSPARENT-OLED-SIGNAGE-55EW5G-A"
+      },
+      {
+        "path": "./assets/img/products/55ew5g-a/TRANSPARENT-OLED-SIGNAGE-55EW5G-A(2).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ew5g-a.TRANSPARENT-OLED-SIGNAGE-55EW5G-A"
+      },
+      {
+        "path": "./assets/img/products/55ew5g-a/TRANSPARENT-OLED-SIGNAGE-55EW5G-A(3).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ew5g-a.TRANSPARENT-OLED-SIGNAGE-55EW5G-A"
+      },
+      {
+        "path": "./assets/img/products/55ew5g-a/TRANSPARENT-OLED-SIGNAGE-55EW5G-A(4).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ew5g-a.TRANSPARENT-OLED-SIGNAGE-55EW5G-A"
+      },
+      {
+        "path": "./assets/img/products/55ew5g-a/TRANSPARENT-OLED-SIGNAGE-55EW5G-A(5).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55ew5g-a.TRANSPARENT-OLED-SIGNAGE-55EW5G-A"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "TRANSPARENT-OLED-SIGNAGE-55EW5G-A",
+    "title": "TRANSPARENT OLED SIGNAGE",
+    "features": [
+      "Brightness (Typ.): 400 nits (APL 25%, Without Glass)",
+      "Transparency (Typ.): 38%",
+      "Bezel: 7.9 mm (T/B/L), 121.7 mm (B)",
+      "Connectivity: HDMI, DP, USB (x2), RS-232C, RJ-45, Audio, IR"
+    ],
+    "learnmoreUrl": ""
+  }
+  

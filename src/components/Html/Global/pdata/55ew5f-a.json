@@ -1,0 +1,61 @@
+{
+    "pId": "55ew5f-a",
+    "backgroungImg": "url('./assets/img/products/55ew5f-a/55ew5f-a_front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55ew5f-a/55EW5F-A.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Digital Signage"
+      },
+      {
+        "path": "./assets/img/video/55ew5f-a_1.mp4",
+        "fullview": false,
+        "isVideo": true
+      },
+      {
+        "path": "./assets/img/products/55ew5f-a/55ew5f-a_side.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Digital Signage"
+      },
+      {
+        "path": "./assets/img/products/55ew5f-a/55ew5f-a_sideright.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Digital Signage"
+      },
+      {
+        "path": "./assets/img/products/55ew5f-a/55ew5f-a_top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Digital Signage"
+      },
+      {
+        "path": "./assets/img/products/55ew5f-a/55ew5f-a_sideleft.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "55\" Transparent OLED Digital Signage"
+      },
+      {
+        "path": "./assets/video/55ew5f-a_1.mp4",
+        "fullview": false,
+        "isVideo": true
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_55EW5F-A_051911_PR%5B20190712_051416%5D.pdf",
+    "serious": "Transparent-OLED-Digital-Signage",
+    "title": "55\" Transparent OLED Digital Signage",
+    "features": [
+      "Screen Size: 55\"",
+      "Resolution: 1920 x 1080 (Full HD)",
+      "Brightness: 400 nits",
+      "Panel Type: Transparent OLED",
+      "Viewing Angle: 178° x 178°",
+      "Video Wall capable with optional brackets",
+      "Surface Treatment: Hard Coating (2H), Anti-reflection",
+      "Lifetime: 30,000 hours"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/oled-displays/lg-55EW5F-A"
+  }

@@ -1,0 +1,73 @@
+{
+    "pId": "49xs4f-b",
+    "backgroungImg": "url('./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES(2).jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/49xs4f-b/XS4F-SERIES-HIGH-BRIGHTNESS-WINDOW-FACING-(FASTF3).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      },
+      {
+        "path": "./assets/img/products/49xs4f-b/HIGH-BRIGHTNESS-WINDOW-FACING-XS4F-SERIES-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49xs4f-b.WINDOW-FACING-DISPLA-75XS4G"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "WINDOW-FACING-DISPLAY-75XS4G",
+    "title": "WINDOW FACING DISPLAY",
+    "features": [
+      "Brightness (Typ.): 4,000 nits",
+      "Lifetime: 50,000 Hours",
+      "Bezel Width: 12.0 mm (T/B), 9.9 mm (L/R)",
+      "Depth: 85.4 mm",
+      "Connectivity: HDMI (x2), DP, DVI-D, RJ-45, IR, RS-232C, USB, External Speaker Out (L/R)"
+    ],
+    "learnmoreUrl": ""
+  }
+  

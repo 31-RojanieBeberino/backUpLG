@@ -1,0 +1,77 @@
+{
+    "pId": "lat140",
+    "backgroungImg": "url('./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/lat140/LAT-SERIES-LG-LED-TRANSPARENT(LFS).jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/video/LAT240.mp4",
+        "fullview": false,
+        "isVideo": true
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      },
+      {
+        "path": "./assets/img/products/lat140/LG-LED-TRANSPARENT-LAT-SERIES-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "lat140.LG-LED-TRANSPARENT-LAT-SERIES"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "LG-LED-TRANSPARENT-LAT-SERIES",
+    "title": "LG LED TRANSPARENT LAT SERIES",
+    "features": [
+      "Pixel Pitch: 14 mm",
+      "LED Type: RGB 3-in-1 SMD",
+      "Transmittance: 53%",
+      "Self-adhesive Film"
+    ],
+    "learnmoreUrl": ""
+  }
+  

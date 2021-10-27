@@ -1,0 +1,50 @@
+{
+    "pId": "49wl95c-w",
+    "backgroungImg": "url('./assets/img/products/49wl95c-w/ULTRAWIDE™-MONITOR-49WL95C.jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/49wl95c-w/ULTRAWIDE™-MONITOR-49WL95C.jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "49wl95c-w.ULTRAWIDE™ MONITOR 49WL95C"
+      },
+      {
+        "path": "./assets/img/products/49wl95c-w/ULTRAWIDE™-MONITOR-49WL95C(2).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49wl95c-w.ULTRAWIDE™ MONITOR 49WL95C"
+      },
+      {
+        "path": "./assets/img/products/49wl95c-w/ULTRAWIDE™-MONITOR-49WL95C(3).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49wl95c-w.ULTRAWIDE™ MONITOR 49WL95C"
+      },
+      {
+        "path": "./assets/img/products/49wl95c-w/ULTRAWIDE™-MONITOR-49WL95C(4).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49wl95c-w.ULTRAWIDE™ MONITOR 49WL95C"
+      },
+      {
+        "path": "./assets/img/products/49wl95c-w/ULTRAWIDE™-MONITOR-49WL95C(5).jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "49wl95c-w.ULTRAWIDE™ MONITOR 49WL95C"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "ULTRAWIDE™-MONITOR-49WL95C",
+    "title": "ULTRAWIDE™ MONITOR",
+    "features": [
+      "Screen Size : 86\"",
+      "Brightness: 5,000 nits",
+      "Fast Assembly and Easy Maintenance",
+      "Two Cabinet Options",
+      "IP65 Weatherproof Design",
+      "90° Corner Option Available"
+    ],
+    "learnmoreUrl": ""
+  }
+  

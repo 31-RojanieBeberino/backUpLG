@@ -1,0 +1,71 @@
+{
+    "pId": "LSCB Series",
+    "backgroungImg": "url('./assets/img/products/LSCB/LSCB-Cabinet-Front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/LSCB/LSCB-SERIES-INDOOR-DIRECT-VIEW-LED-SIGNAGE-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Left.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Right.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Bottom.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      },
+      {
+        "path": "./assets/img/products/LSCB/LSCB-Cabinet-Back.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Indoor Direct View LED Signage"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "https://drive.google.com/file/d/1N-aZ9uBgo9-YmCCYLoeOM_iMM4b2iqZV/view?usp=sharing",
+    "serious": "LSCB Series",
+    "title": "Indoor Direct View LED Signage",
+    "features": [
+
+        "Available Pixel Pitch: 1.56 / 1.88 / 2.50 mm",
+        "Max Brightness After Calibration (1.56 & 1.88): 600 nits",
+        "Max Brightness After Calibration (2.50): 800 nits",
+        "Contrast Ratio: 5000:1",
+        "Viewing Angle: 160° x 160°",
+        "Operating Temperature: 14°F to 113°F",
+        "Environment Rating: IP30",
+        "Lifetime (Half Brightness): 100,000 hours"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/direct-view-led-signage/lg-lscb015-gk"
+  }
+  

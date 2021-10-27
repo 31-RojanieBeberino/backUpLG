@@ -1,0 +1,134 @@
+{
+  "pId": "OPTIMUM CABLE-LESS SERIES (LSAA)",
+  "backgroungImg": "url('./assets/img/products/LSAA/LSAA_Main_Cabinet_front.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/LSAA/ALL-IN-ONE-SERIES-(LAAF)-130-ALL-IN-ONE-LED-SCREEN-final.jpg",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/video/LSAA.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES.png",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(2).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(3).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(4).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(5).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(6).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(7).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(8).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(9).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(10).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(11).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(12).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(13).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(14).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(15).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(16).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    },
+    {
+      "path": "./assets/img/products/LSAA/LG-LED-BLOC-LSAA-SERIES-(17).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "LG LED Bloc"
+    }
+  ],
+  "casestudyUrl": "https://drive.google.com/file/d/1Czou3KD-1kLBmp_RD3V26PKr1pIw2Rwx/view?usp=sharing",
+  "specsUrl": "https://drive.google.com/file/d/1O2LKTdGQGr_kAkCDyHuVENnt2UrsaCF6/view?usp=sharing",
+  "serious": "OPTIMUM CABLE-LESS SERIES (LSAA)",
+  "title": "LG LED Bloc",
+  "features": [
+    "3rd Generation 4-in-1 LED Package",
+    "1.25mm Pixel Pitch",
+    "Max Brightness (After Calibration): 1200 nits",
+    "Contrast Ratio (Typical): 5,000:1",
+    "Viewing Angle (H x V): 160\u00B0 x 140\u00B0",
+    "Brightness Uniformity: 97%",
+    "Lifetime (Half Brightness): 100,000 hours",
+    "Power & Signal Redundancy Support"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/direct-view-led-signage/lg-lsaa012"
+}

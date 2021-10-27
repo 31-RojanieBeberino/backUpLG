@@ -1,0 +1,45 @@
+{
+  "pId": "29BN650-B",
+  "backgroungImg": "url('./assets/img/products/29BN650-B/29_03.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/29BN650-B/29BN650-B-29-ULTRAWIDE-FLAT-MONITOR-final.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "29\" UltraWide Flat Monitor"
+    },
+    {
+      "path": "./assets/img/products/29BN650-B/29_01.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "29\" UltraWide Flat Monitor"
+    },
+    {
+      "path": "./assets/img/products/29BN650-B/29_02.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "29\" UltraWide Flat Monitor"
+    },
+    {
+      "path": "./assets/img/products/29BN650-B/29_04.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "29\" UltraWide Flat Monitor"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "",
+  "serious": "UltraWide-Flat-Monitor",
+  "title": "29\" UltraWide Flat Monitor",
+  "features": [
+    "Screen Size: 29\"",
+    "Resolution: 2560 x 1080(WFHD)",
+    "HDR 10/Color Calibrated",
+    "Color Gamut sRGB 99%",
+    "Peak Brightness: 350 nits",
+    "Contrast Ratio:1000:1",
+    "Tilt/Height/Swivel Adjustable",
+    "Connectivity: DisplayPort, HDMI(x2), Headphone Out"
+  ],
+  "learnmoreUrl": ""
+}

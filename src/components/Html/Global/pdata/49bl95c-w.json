@@ -1,0 +1,68 @@
+{
+  "pId": "49BL95C-W",
+  "backgroungImg": "url('./assets/img/products/49BL95C-W/49BL95C_1 _Inscreen.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C-W-49-329-CURVED-ULTRAWIDE-DUAL-QHD-IPS-MONITOR(2)-final.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/video/49BL95C-W/49BL95C-W-1.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C_1.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C_3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    },
+    {
+      "path": "./assets/img/products/49BL95C-W/49BL95C_8.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/SPEC_49BL95C-W_041952_PR[20190712_040235].pdf",
+  "serious": "Curved-UltraWide-Dual-QHD-IPS-Monitor",
+  "title": "49\" 32:9 Curved UltraWide Dual QHD IPS Monitor",
+  "features": [
+    "Screen Size (diagonal): 49\"",
+    "Resolution: 5120 x 1440",
+    "Brightness: 280 nits",
+    "Warranty: 3 Year Parts and Labor",
+    "Panel Type: IPS",
+    "Aspect Ratio: 32:9",
+    "UPC: 7 19192 62964 6",
+    "Contrast Ratio: 700:1"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/desktop-monitors/lg-49BL95C"
+}

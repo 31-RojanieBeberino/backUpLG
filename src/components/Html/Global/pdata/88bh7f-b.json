@@ -1,0 +1,82 @@
+{
+    "pId": "88bh7f-b",
+    "backgroungImg": "url('./assets/img/products/88bh7f/PHTO_88BH7D_front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/88bh7f/88BH7F-88”-ULTRA-STRETCH-final.jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display1"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F.png",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display1"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display2"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display3"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display4"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display5"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display6"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display7"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display7"
+      },
+      {
+        "path": "./assets/img/products/88bh7f/88”-ULTRA-STRETCH-88BH7F-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "88\" Ultra Stretch IPS Display7"
+      }
+      
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "http://34.205.235.177/LinkPreview.ashx?linkid=oNgiXTCjOw8%3d&path=ShareAsset%5Cscott.kelley@lge.com%5C20916b11115f4e64a4d0b52d61921f66.pdf",
+    "serious": "ULTRA-STRETCH",
+    "title": "88\" Ultra Stretch IPS Display",
+    "features": [
+      "Diagonal: 88\"",
+      "Resolution: 3840 x 1080 (UHD)",
+      "Aspect Ratio: 32:9",
+      "Brightness: 700 nits",
+      "Multi Screen Mode with 4x Picture-by-Picture",
+      "Portrait or Landscape",
+      "System on Chip with webOS 4.0",
+      "DisplayPort Daisy Chain Capable"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/digital-signage/lg-88bh7f-b"
+}

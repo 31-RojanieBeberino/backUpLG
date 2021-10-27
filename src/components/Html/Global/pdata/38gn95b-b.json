@@ -1,0 +1,56 @@
+{
+  "pId": "38GN95B",
+  "backgroungImg": "url('./assets/img/products/38GN95B/38GN95B-B_1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/38GN95B/38GN95B-38-ULTRAGEAR-GAMING-MONITOR-final.jpg",
+      "fullview": false,
+      "isVideo": false, "altName": "38\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/38GN95B/38GN95B-B_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "38\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/38GN95B/38GN95B-B_3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "38\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/38GN95B/38GN95B-B_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "38\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/38GN95B/38GN95B-B_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "38\" UltraGear Gaming Monitor"
+    },
+    {
+      "path": "./assets/img/products/38GN95B/38GN95B-B_7.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "38\" UltraGear Gaming Monitor"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT40000311/LG_SPEC-SHEET_38GN95B-B_052010_LR[20200606_061022].pdf",
+  "serious": "UltraGear-Gaming-Monitor",
+  "title": "38\" UltraGear Gaming Monitor",
+  "features": [
+    "Screen Size: 38\"",
+    "Resolution: 3840 x 1600 (QHD+)",
+    "Brightness: 450 nits",
+    "Warranty: 3 Year Parts and Labor",
+    "Panel Type: IPS",
+    "Contrast Ratio: 1000:1",
+    "AMD FreeSync Premium & NVIDIA® G-SYNC® Compatible",
+    "Response Time (G to G): 1 ms"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/computer-monitors/lg-38gn95b-b"
+}

@@ -1,0 +1,63 @@
+{
+  "pId": "laeb015",
+  "backgroungImg": "url('./assets/img/products/LAEB/laeb015.jpg')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/LAEB/ALL-IN-ONE-SERIES-(LAEB)-136-ALL-IN-ONE-LED-SCREEN-final.jpg",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "136\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/video/LAA015F.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/LAEB/136-ALL-IN-ONE-LED-SCREEN-ALL-IN-ONE-SERIES-(LAEB).png",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "136\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAEB/LAEB-front.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "136\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAEB/LAEB-right.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "136\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAEB/LAEB-left.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "136\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAEB/LAEB-back.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "136\" All-in-One LED Screen"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://drive.google.com/file/d/1VsvPhE31g5XW0mcmOhsywWPq5_ADp-kX/view?usp=sharing",
+  "serious": "ALL-IN-ONE SERIES (LAEB)",
+  "title": "136\" All-in-One LED Screen",
+  "features": [
+    "Diagonal: 136\" (11.3 feet)",
+    "1.25mm Pixel Pitch",
+    "Resolution: 1920 x 1080 (Full HD)",
+    "Pixel Pitch: 1.56 mm",
+    "Brightness: 800 nits",
+    "Built-in Connections: HDMI (x3), USB 2.0, RJ45, Audio Out",
+    "Cabinets connect power and signals",
+    "No separate LED controller required",
+    "Optional stand with motorized height adjustment"
+  ],
+  "learnmoreUrl": "https://www.lg.com/hk_en/business/led-signage/lg-laeb015"
+}

@@ -1,0 +1,69 @@
+{
+    "pId": "55XS4F",
+    "backgroungImg": "url('./assets/img/products/55XS4F/PHTO_55XS4F_front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/55XS4F/55XS4F-HIGH-BRIGHTNESS-INDOOR-WINDOW-FACING-SIGNAGE-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      },
+      {
+        "path": "./assets/img/video/55XS4F.mp4",
+        "fullview": false,
+        "isVideo": true
+      },
+      {
+        "path": "./assets/img/products/55XS4F/PHTO_55XS4F_front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      },
+      {
+        "path": "./assets/img/products/55XS4F/PHTO_55XS4F_left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      },
+      {
+        "path": "./assets/img/products/55XS4F/PHTO_55XS4F_left.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      },
+      {
+        "path": "./assets/img/products/55XS4F/PHTO_55XS4F_right.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      },
+      {
+        "path": "./assets/img/products/55XS4F/PHTO_55XS4F_back.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      },
+      {
+        "path": "./assets/img/products/55XS4F/PHTO_55XS4F_top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "High Brightness Indoor Window Facing Signage"
+      }
+    ],
+    "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2211.pdf",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_XS4F_101914_LR[20200318_045920].pdf",
+    "serious": "Brightness-Indoor-Window-Facing-Signage",
+    "title": "High Brightness Indoor Window Facing Signage",
+    "features": [
+      "Screen Size: 55\"",
+      "Resolution: 1920 x 1080 (FHD)",
+      "Brightness: 4000 nits",
+      "Lifetime: 50,000 hours",
+      "Panel Type: IPS",
+      "Aspect Ratio: 16:9",
+      "Viewing Angle: 178° x 178°",
+      "Contrast Ratio: 1000:1"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/digital-signage/lg-55XS4F-B-digital-display"
+  }
+  

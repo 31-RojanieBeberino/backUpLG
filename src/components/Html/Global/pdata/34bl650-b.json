@@ -1,0 +1,70 @@
+{
+  "pId": "34bl650",
+  "backgroungImg": "url('./assets/img/products/34BL650/34BL650-B_1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/34BL650/34BL650-34-ULTRAWIDE-MONITOR-final.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-B_1.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-B_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-B_3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-B_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-B_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-B_8.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    },
+    {
+      "path": "./assets/img/products/34BL650/34BL650-Bh.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "34\" UltraWide Monitor"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_34BL650-B_051933_PR[20190712_034853].pdf",
+  "serious": "UltraWide-Monitor",
+  "title": "34\" UltraWide Monitor",
+  "features": [
+    "Screen Size (diagonal): 34\"",
+    "Resolution: 2560 x 1080",
+    "Resolution: 2560 x 1080",
+    "Brightness: 300 nits",
+    "Warranty: 3 Year Parts and Labor",
+    "Panel Type: IPS",
+    "Aspect Ratio: 21:9",
+    "Color Gamut: sRGB 99% (CIE1931)",
+    "Contrast Ratio: 100:1"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/desktop-monitors/lg-34BL650-B"
+}

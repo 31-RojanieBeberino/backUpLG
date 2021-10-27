@@ -1,0 +1,56 @@
+{
+  "pId": "86tn3f",
+  "backgroungImg": "url('./assets/img/products/86TN3F/86TN3F_1.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/86TN3F/86TN3F-B.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "86\" In-Cell TouchScreen Signage"
+    },
+    {
+      "path": "./assets/img/video/86TN3F.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/86TN3F/86TN3F_2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "86\" In-Cell TouchScreen Signage"
+    },
+    {
+      "path": "./assets/img/products/86TN3F/86TN3F_4.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "86\" In-Cell TouchScreen Signage"
+    },
+    {
+      "path": "./assets/img/products/86TN3F/86TN3F_5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "86\" In-Cell TouchScreen Signage"
+    },
+    {
+      "path": "./assets/img/products/86TN3F/86TN3F_6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "86\" In-Cell TouchScreen Signage"
+    }
+  ],
+  "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2211.pdf",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_86TN3F_081901_LR[20190905_053317].pdf",
+  "serious": "In-Cell-TouchScreen-Signage",
+  "title": "86\" In-Cell TouchScreen Signage",
+  "features": [
+    "Screen Size (diagonal): 86\"",
+    "Resolution: 3840 x 2160",
+    "Brightness: 350 nits",
+    "Panel Type: In-cell Touch IPS",
+    "Multitouch: 20 Points (Windows)",
+    "Contrast Ratio: 1000:1",
+    "Response Time (G to G): 8 ms",
+    "Input Connections: HDMI (3), DP, DVI-D, USB Type C, Audio In/Out"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/digital-signage/lg-86tn3f-b"
+}

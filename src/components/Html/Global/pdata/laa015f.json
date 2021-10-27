@@ -1,0 +1,68 @@
+{
+  "pId": "ALL-IN-ONE SERIES (LAAF)",
+  "backgroungImg": "url('./assets/img/products/LAA015F/PHTO_LAA_Front(2).png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/LAA015F/Laa015F.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAA015F/PHTO_LAA_Front (2).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAA015F/PHTO_LAA_1.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAA015F/PHTO_LAA_Jack_Interface.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAA015F/PHTO_LAA_Right45.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAA015F/PHTO_LAA_Back.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/img/products/LAA015F/PHTO_LAA_Right.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "130\" All-in-One LED Screen"
+    },
+    {
+      "path": "./assets/video/LAA015F.mp4",
+      "fullview": false,
+      "isVideo": true
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_LAAF_042005_LR[20200506_054535].pdf",
+  "serious": "ALL-IN-ONE SERIES (LAAF)",
+  "title": "130\" All-in-One LED Screen",
+  "features": [
+    "Screen Size: 130\"",
+    "Resolution: 1920 x 1080 (Full HD)",
+    "Pixel Pitch: 1.5mm",
+    "Brightness: 500 nits",
+    "Contrast Ratio: 5000:1",
+    "Viewing Angle (H x V): 160\u00B0 x 140\u00B0",
+    "Lifetime (Half Brightness): 100,000 hours",
+    "Connectivity: HDMI In (x3), DP In, USB 2.0, RJ45 In, RS232C"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/direct-view-led-signage/lg-laa015f"
+}

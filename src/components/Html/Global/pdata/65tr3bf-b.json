@@ -1,0 +1,91 @@
+{
+    "pId": "65tr3bf-b",
+    "backgroungImg": "url('./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD(1).jpg')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/65tr3bf-b/TR3BF-INTERACTIVE-DIGITAL-BOARD-final.jpg",
+        "fullview": true,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(1).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(2).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(3).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(4).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(5).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(6).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(7).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(8).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(9).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(10).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      },
+      {
+        "path": "./assets/img/products/65tr3bf-b/INTERACTIVE-DIGITAL-TR3BF-BOARD-(11).png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "65tr3bf-b.INTERACTIVE-DIGITAL-TR3BF-BOARD"
+      }
+    ],
+    "casestudyUrl": "",
+    "specsUrl": "",
+    "serious": "INTERACTIVE-DIGITAL-TR3BF-BOARD",
+    "title": "INTERACTIVE DIGITAL TR3BF BOARD",
+    "features": [
+      "Screen Size: 86\" / 75\" / 65\"",
+      "Brightness (with Protection Glass): 330 nits",
+      "Touch Type : IR",
+      "Max Multi Touch: 20 Points (10 Writing)",
+      "Connectivity: HDMI (x3), RGB, Audio In, RS-232C In, RJ-45, USB 2.0 (x2), USB 3.0 (x3), Touch Out (USB2.0) (x2), HDMI, Optical Output, Audio Out"
+    ],
+    "learnmoreUrl": ""
+  }
+  

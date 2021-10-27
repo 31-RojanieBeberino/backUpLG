@@ -1,0 +1,62 @@
+{
+  "pId": "55SVH7F",
+  "backgroungImg": "url('./assets/img/products/55SVH7PF/55SVH7PF-2.png')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/55SVH7PF/55SVH7F-0.44MM-EVEN-BEZEL-VIDEO-WALL-WITH-SMART-CALIBRATION-final.jpg",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "0.44mm Even Bezel Video Wall with Smart Calibration"
+    },
+    {
+      "path": "./assets/img/video/55SVH7F.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/55SVH7PF/55SVH7PF-2.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "0.44mm Even Bezel Video Wall with Smart Calibration"
+    },
+    {
+      "path": "./assets/img/products/55SVH7PF/55SVH7PF-3.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "0.44mm Even Bezel Video Wall with Smart Calibration"
+    },
+    {
+      "path": "./assets/img/products/55SVH7PF/55SVH7PF-4.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "0.44mm Even Bezel Video Wall with Smart Calibration"
+    },
+    {
+      "path": "./assets/img/products/55SVH7PF/55SVH7PF-5.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "0.44mm Even Bezel Video Wall with Smart Calibration"
+    },
+    {
+      "path": "./assets/img/products/55SVH7PF/55SVH7PF-6.png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "0.44mm Even Bezel Video Wall with Smart Calibration"
+    }
+  ],
+  "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2210.pdf",
+  "specsUrl": "https://www.lg.com/us/business/download/resources/CT00001837/LG_SPEC-SHEET_55SVH7PF-H_091907_LR[20200318_032143].pdf",
+  "serious": "Even-Bezel-Video-Wall-with-Smart-Calibration",
+  "title": "0.44mm Even Bezel Video Wall with Smart Calibration",
+  "features": [
+    "Screen Size (diagonal): 55\"",
+    "Resolution: 1920 x 1080 (FHD)",
+    "Brightness: 700 nits",
+    "Panel Type: IPS RGB",
+    "Aspect Ratio: 16:9",
+    "Contrast Ratio: 1200:1",
+    "Response Time (G to G): 8 ms",
+    "Input Connections: HDMI (2), DP, DVI-D, Audio, USB"
+  ],
+  "learnmoreUrl": "https://www.lg.com/us/business/video-walls/lg-55svh7pf-h"
+}

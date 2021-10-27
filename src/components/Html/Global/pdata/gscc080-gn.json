@@ -1,0 +1,76 @@
+{
+    "pId": "GSCC Series",
+    "backgroungImg": "url('./assets/img/products/GSCC/GSCC_front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/GSCC/GSCC-SERIES-ESSENTIAL-SERIES-OUTDOOR-LED-SIGNAGE-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/video/GSCC.mp4",
+        "fullview": false,
+        "isVideo": true
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_front2.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_top-front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_left45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_back1.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_back2.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      },
+      {
+        "path": "./assets/img/products/GSCC/GSCC_back3.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "Essential Series Outdoor LED Signage"
+      }
+    ],
+    "casestudyUrl": "https://drive.google.com/file/d/1lQ70M7anZdcvlKljAgTaMpJNOxbFkjB4/view?usp=sharing",
+    "specsUrl": "https://drive.google.com/file/d/1EXXb4-bEtcVWL6-3OiQomzinB3BXbyc5/view?usp=sharing",
+    "serious": "GSCC Series ",
+    "title": "Essential Series Outdoor LED Signage",
+    "features": [
+      "Available Pixel Pitch: 6.67 / 8.00 / 16.00 mm",
+      "Max Brightness After Calibration (6.67 & 8.00 mm):",
+      "5,000 nits",
+      "Max Brightness After Calibration (16.00 mm): 8,000 nits",
+      "Contrast Ratio (6.67): 5000:1",
+      "Contrast Ratio (8.00): 6700:1",
+      "Contrast Ratio (16.00): 20,000:1",
+      "Operating Temperature: 24°F to 122°F",
+      "Lifetime (Half Brightness): 100,000 hours"
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/direct-view-led-signage/lg-gscc066-gn"
+  }
+  

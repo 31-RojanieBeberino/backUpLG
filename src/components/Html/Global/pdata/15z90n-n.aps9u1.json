@@ -1,0 +1,105 @@
+{
+  "pId": "15z90n-n.aps9u1",
+  "backgroungImg": "url('./assets/img/products/15Z90N/LG-GRAM-15Z90N.jpg')",
+  "carousel": [
+    {
+      "path": "./assets/img/products/15Z90N/15Z90N-LG-GRAM-final(wfh).jpg",
+      "fullview": true,
+      "isVideo": false,
+      "altName": "15Z90N-N.LG-GRAM-15Z90N1"
+    },
+    {
+      "path": "./assets/img/video/15Z90N.mp4",
+      "fullview": false,
+      "isVideo": true
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N.png",
+      "fullview": true,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N2"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(2).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N3"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(3).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N4"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(4).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N5"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(5).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N6"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(6).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(7).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(8).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(9).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(10).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(11).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    },
+    {
+      "path": "./assets/img/products/15Z90N/LG-GRAM-14Z90N-(12).png",
+      "fullview": false,
+      "isVideo": false, 
+      "altName": "15Z90N-N.LG-GRAM-15Z90N7"
+    }
+  ],
+  "casestudyUrl": "",
+  "specsUrl": "",
+  "serious": "LG-GRAM",
+  "title": "LG GRAM",
+  "features": [
+    "15.6\" FHD (1920 x 1080) IPS Screen",
+    "1.25mm Pixel Pitch",
+    "Intel® Core™ i7-1065G7 1.3HGz/3.9GHz",
+    "16GB DDR4 RAM & 1TB SSD",
+    "Windows 10 Professional (64 bit)",
+    "Trusted Platform Module SLB 9670",
+    "Ultra-thin 0.7\" Thickness",
+    "Extremely Light 2.5 lbs",
+    "Built in Speakers (1.5W x 2)"
+  ],
+  "learnmoreUrl": ""
+}

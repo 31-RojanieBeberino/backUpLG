@@ -1,0 +1,70 @@
+{
+    "pId": "86BH5C",
+    "backgroungImg": "url('./assets/img/products/86BH5C/PHTO_86BH5C_Front.png')",
+    "carousel": [
+      {
+        "path": "./assets/img/products/86BH5C/86BH5C-86-ULTRA-STRETCH-SIGNAGE-final.jpg",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_Front.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_L45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_Left.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_R45.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_Right.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_Top.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      },
+      {
+        "path": "./assets/img/products/86BH5C/PHTO_86BH5C_Back.png",
+        "fullview": false,
+        "isVideo": false, 
+        "altName": "86\" Ultra Stretch Signage"
+      }
+    ],
+    "casestudyUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_2211.pdf",
+    "specsUrl": "https://www.lg.com/us/business/download/resources/BT00001837/BT00001837_598.pdf",
+    "serious": "Ultra-Stretch-Signage",
+    "title": "86\" Ultra Stretch Signage",
+    "features": [
+        "Screen Size (diagonal): 86\"",
+        "Resolution: 3840 x 600 (UHD)",
+        "Brightness: 500 nits",
+        "Lifetime: 50,000 hours",
+        "Panel Type: IPS",
+        "Aspect Ratio: 58:9",
+        "Viewing Angle: 178° x 178°",
+        "Contrast Ratio: 1100:1"  
+    ],
+    "learnmoreUrl": "https://www.lg.com/us/business/digital-signage/lg-86BH5C"
+  }
+  
